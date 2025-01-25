@@ -38,7 +38,7 @@ function Notify(titletxt, text, time)
     GUI:Destroy();
 end
 
-Notify("Script Update 18/1/2025", "[+] Add Full Raid Fruits, Auto Chest, Config", 5)
+Notify("Script Update 26/1/2025", "Hi", 5)
 
 local ScreenGui1 = Instance.new("ScreenGui")
 local ImageButton1 = Instance.new("ImageButton")
@@ -3393,7 +3393,7 @@ end)
     spawn(function()
         pcall(function()
             while wait() do
-                if _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or FarmBoss or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.d or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or AutoFarmChest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIsland or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or Grab_Chest or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.Farmfast or _G.AutoRace or _G.RaidPirate or Open_Color_Haki or _G.AutoTerrorshark or FarmShark or _G.farmpiranya or _G.Fish_Crew_Member or _G.AppleAutoDriveBoat or _G.Leviathan or _G.Tiki or _G.bjirFishBoat or _G.KillGhostShip or _G.AutoFrozenDimension or _G.AutoFKitsune == true then
+                if _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or FarmBoss or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.d or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or AutoFarmChest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIsland or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or Grab_Chest or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.Farmfast or _G.AutoRace or _G.RaidPirate or Open_Color_Haki or _G.AutoTerrorshark or FarmShark or _G.farmpiranya or _G.Fish_Crew_Member or _G.AppleAutoDriveBoat or _G.bjirFishBoat or _G.KillGhostShip or _G.AutoFrozenDimension or _G.AutoFKitsune == true then
                     if not game:GetService("Players").LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
                         local Noclip = Instance.new("BodyVelocity")
                         Noclip.Name = "BodyClip"
@@ -3409,7 +3409,7 @@ end)
     spawn(function()
         pcall(function()
             game:GetService("RunService").Stepped:Connect(function()
-                if _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.NOCLIP or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.AutoKai or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIsland or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.TPB or _G.Farmfast or _G.AutoRace or _G.RaidPirate or Open_Color_Haki or _G.AutoTerrorshark or FarmShark or _G.farmpiranya or _G.Fish_Crew_Member or _G.AppleAutoDriveBoat or _G.Leviathan or _G.Tiki or _G.AutoFrozenDimension or _G.AutoFKitsune == true then
+                if _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.NOCLIP or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.AutoKai or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIsland or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.TPB or _G.Farmfast or _G.AutoRace or _G.RaidPirate or Open_Color_Haki or _G.AutoTerrorshark or FarmShark or _G.farmpiranya or _G.Fish_Crew_Member or _G.AppleAutoDriveBoat or _G.AutoFrozenDimension or _G.AutoFKitsune == true then
                     for _, v in pairs(game:GetService("Players").LocalPlayer.Character:GetDescendants()) do
                         if v:IsA("BasePart") then
                             v.CanCollide = false    
@@ -3423,7 +3423,7 @@ end)
     spawn(function()
         pcall(function()
             while wait() do
-                if _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or FarmBoss or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.d or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or AutoFarmChest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIsland or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or Grab_Chest or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.Farmfast or _G.AutoRace or _G.RaidPirate or _G.AutoTushitaSword or Open_Color_Haki or _G.AutoTerrorshark or FarmShark or _G.farmpiranya or _G.Fish_Crew_Member or _G.AppleAutoDriveBoat or _G.Leviathan or _G.Tiki or _G.bjirFishBoat or _G.KillGhostShip == true then
+                if _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or FarmBoss or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.d or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or AutoFarmChest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIsland or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or Grab_Chest or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.Farmfast or _G.AutoRace or _G.RaidPirate or _G.AutoTushitaSword or Open_Color_Haki or _G.AutoTerrorshark or FarmShark or _G.farmpiranya or _G.Fish_Crew_Member or _G.AppleAutoDriveBoat or _G.bjirFishBoat or _G.KillGhostShip == true then
                     if not game.Players.LocalPlayer.Character:FindFirstChild("Highlight") then
 	            		local Highlight = Instance.new("Highlight")
                     	Highlight.FillColor = Color3.new(0, 255, 0)
@@ -3506,25 +3506,18 @@ local Library = Update:Window("","12523036534",Enum.KeyCode.RightControl);
 
 -- Tab
 local D = Library:AddTab("Discord","6026568198")
-local Sta = Library:AddTab("Status","6026568198")
-local M = Library:AddTab("Main","6026568198")
-local Dr = Library:AddTab("Dragon Event","6026568198")
-local S = Library:AddTab("Setting","6026568198")
-local Ri = Library:AddTab("Rip Indra","6026568198")
-local K = Library:AddTab("Ken Haki","6026568198")
-local I = Library:AddTab("Item","6026568198")
-local Q = Library:AddTab("Quest","6026568198")
-local V = Library:AddTab("Race V2-3","6026568198")
-local Mi = Library:AddTab("Mirage Island","6026568198")
-local VV = Library:AddTab("Race V4","6026568198")
+local L = Library:AddTab("Local Player","6026568198")
+local S = Library:AddTab("Setting Farm","6026568198")
+local SS = Library:AddTab("Setting Skill","6026568198")
+local M = Library:AddTab("Auto Farm","6026568198")
+local Dr = Library:AddTab("Volcanic-Dojo","6026568198")
+local I = Library:AddTab("Item-Quest","6026568198")
+local B = Library:AddTab("Boss","6026568198")
+local V = Library:AddTab("Upgrade Race","6026568198")
+local VV = Library:AddTab("Mirage-V4","6026568198")
 local Se = Library:AddTab("Sea Event","6026568198")
-local P = Library:AddTab("Player","6026568198")
-local R = Library:AddTab("Raid","6026568198")
-local F = Library:AddTab("Fruits","6026568198")
-local T = Library:AddTab("Teleport","6026568198")
-local St = Library:AddTab("Stats","6026568198")
-local Fun = Library:AddTab("Fun","6026568198")
-local Mis = Library:AddTab("Misc","6026568198")
+local R = Library:AddTab("Fruits-Raid","6026568198")
+local P = Library:AddTab("PVP","6026568198")
 local Su = Library:AddTab("Support","6026568198")
 local IDK = Library:AddTab("Don't Care","6026568198")
 
@@ -3616,8 +3609,6 @@ D:AddLabel("https://discord.gg/e4m8fTKDUZ")
 D:AddButton("Click To Copy Link Discord",function()
 setclipboard("https://discord.gg/e4m8fTKDUZ")
 end)
--- Status Tab
-Sta:AddLabel("Soon")
 -- Main Tab
 M:AddSeperator("Farm")
 local ListF = {"Level", "Bone", "Cake Prince"}
@@ -4586,26 +4577,26 @@ spawn(function()
     end
 end)
 
-S:AddSeperator("Setting Farm Mastery")
+SS:AddSeperator("Setting Farm Mastery")
 
 _G.Kill_At = 25
-S:AddSlider("Kill At %",1,100,25,function(value)
+SS:AddSlider("Kill At %",1,100,25,function(value)
         _G.Kill_At = value
     end)
     
-S:AddToggle("Use Skill Z", true, function(value)
+SS:AddToggle("Use Skill Z", true, function(value)
         _G.SkillZ = value
     end)
  
-S:AddToggle("Use Skill X", true, function(value)
+SS:AddToggle("Use Skill X", true, function(value)
         _G.SkillX = value
     end)
     
-S:AddToggle("Use Skill C", true, function(value)
+SS:AddToggle("Use Skill C", true, function(value)
         _G.SkillC = value
     end)
     
-S:AddToggle("Use Skill V", true, function(value)
+SS:AddToggle("Use Skill V", true, function(value)
         _G.SkillV = value
     end)
 
@@ -4741,15 +4732,14 @@ S:AddToggle("Don't Care", true, function(value)
       print("Don't Care")
 end)      
 
--- Rip Indra Tab
-Ri:AddSeperator("Chest")
+M:AddSeperator("Chest")
 
-Ri:AddToggle("Auto Farm Chest", _G.Settings.cf, function(value)
+M:AddToggle("Auto Farm Chest", _G.Settings.cf, function(value)
     _G.Settings.cf = value
     SaveSettings()
 end)
 
-Ri:AddToggle("Stop Legendary Items", _G.Settings.StLg, function(value)
+M:AddToggle("Stop Legendary Items", _G.Settings.StLg, function(value)
     _G.Settings.StLg = value
     SaveSettings()
 end)
@@ -4824,14 +4814,14 @@ local a={}local b=""local c=os.date("!*t").hour;local d=false;local e=pcall(func
     end
 )
 
-Ri:AddSeperator("Haki Colors")
-Ri:AddToggle("Auto Buy Haki Colors", _G.Settings.BuyH, function(value)
+I:AddSeperator("Haki Colors")
+I:AddToggle("Auto Buy Haki Colors", _G.Settings.BuyH, function(value)
         _G.AutoBuyEnchancementColour = value
         _G.Settings.BuyH = value
         SaveSettings()
     end)
     
-Ri:AddToggle("Auto Buy Haki Colors + Hop", _G.Settings.BuyHop, function(value)
+I:AddToggle("Auto Buy Haki Colors + Hop", _G.Settings.BuyHop, function(value)
         _G.AutoBuyEnchancementColour_Hop = value
         _G.Settings.BuyHop = value
         SaveSettings()
@@ -4853,8 +4843,8 @@ Ri:AddToggle("Auto Buy Haki Colors + Hop", _G.Settings.BuyHop, function(value)
         end
     end)
     
-Ri:AddSeperator("Elite")
-Ri:AddToggle("Auto Elite Hunter", _G.Settings.Elite, function(value)
+B:AddSeperator("Elite")
+B:AddToggle("Auto Elite Hunter", _G.Settings.Elite, function(value)
         _G.AutoElitehunter = value
         _G.Settings.Elite = value
         SaveSettings()
@@ -4924,8 +4914,8 @@ Ri:AddToggle("Auto Elite Hunter", _G.Settings.Elite, function(value)
         end
     end)
     
-Ri:AddSeperator("Rip Indra")
-Ri:AddToggle("Auto Press Haki Color", _G.Settings.PressHaki, function(vu)
+B:AddSeperator("Rip Indra")
+B:AddToggle("Auto Press Haki Color", _G.Settings.PressHaki, function(vu)
 	Open_Color_Haki = vu
 	_G.Settings.PressHaki = vu
 	SaveSettings()
@@ -4972,7 +4962,7 @@ function EquipAllWeapon()
 	end)
 end
     
-Ri:AddToggle("Auto Rip Indra", _G.Settings.Indra, function(value)
+B:AddToggle("Auto Rip Indra", _G.Settings.Indra, function(value)
         _G.AutoDarkDagger = value
         _G.Settings.Indra = value
         SaveSettings()
@@ -5022,8 +5012,6 @@ Ri:AddToggle("Don't Care", true, function(value)
       print("Don't Care")
 end)
     
--- Ken Haki Tab
-K:AddLabel("Soon")
 -- Item Tab
 I:AddSeperator("Sword")
 I:AddToggle("Auto Saber", _G.Settings.Saber, function(value)
@@ -5425,9 +5413,7 @@ I:AddToggle("Don't Care", true, function(value)
       print("Don't Care")
 end)
     
--- Quest Tab
-Q:AddLabel("Soon")
--- Race V2-3 Tab
+-- Upgrade Race Tab
 V:AddSeperator("Race V2")
 
 V:AddToggle("Auto Upgrade Race V2", _G.Settings.RaceEvo, function(value)
@@ -5487,8 +5473,6 @@ V:AddToggle("Auto Upgrade Race V2", _G.Settings.RaceEvo, function(value)
         end)
     end)
     
--- Mirage Tab
-Mi:AddLabel("Soon")
 -- Race V4 Tab
 VV:AddSeperator("Race V4")
 
@@ -5918,138 +5902,13 @@ Se:AddToggle("Auto Farm Remove I Don't Know-Spy (Leviathan)", false, function(va
       StopTween( _G.AppleAutoDriveBoat)
     end)
     
-Se:AddButton("Teleport To Npc Buy Boat Tiki", function()
-local player = game.Players.LocalPlayer
-local character = player.Character or player.CharacterAdded:Wait()
-
-local targetPosition = Vector3.new(-16919, 9, 508)  -- Tọa độ đích
-local speed = 500  -- Tốc độ di chuyển
-local tolerance = 2  -- Ngưỡng độ chính xác để dừng lại khi đến gần tọa độ mục tiêu
-
-local walkWater = true  -- Thay đổi giá trị này để bật/tắt chức năng đi trên mặt nước
-
--- Hàm kiểm tra độ cao để đảm bảo nhân vật đứng trên mặt nước
-local function checkHeight(position)
-    local ray = Ray.new(position + Vector3.new(0, 10, 0), Vector3.new(0, -20, 0))  -- Tạo một tia ray từ vị trí (trên mặt đất)
-    local hit, hitPosition = game.Workspace:FindPartOnRay(ray, character)
-    if hit then
-        return hitPosition.Y  -- Trả về tọa độ Y của điểm va chạm (mặt đất hoặc nước)
-    else
-        return position.Y  -- Trả về Y ban đầu nếu không có va chạm
-    end
-end
-
--- Tạo thông báo trên màn hình
-local function showNotification(message)
-    local screenGui = Instance.new("ScreenGui")
-    screenGui.Parent = player:WaitForChild("PlayerGui")
-
-    local textLabel = Instance.new("TextLabel")
-    textLabel.Parent = screenGui
-    textLabel.Text = message
-    textLabel.Size = UDim2.new(0, 400, 0, 50)
-    textLabel.Position = UDim2.new(0.5, -200, 0.1, 0)  -- Đặt vị trí thông báo ở trên cùng
-    textLabel.BackgroundTransparency = 0.5
-    textLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-    textLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
-    textLabel.TextSize = 24
-    textLabel.TextStrokeTransparency = 0.5
-
-    -- Ẩn thông báo sau 3 giây
-    wait(3)
-    screenGui:Destroy()
-end
-
-spawn(function()
-    local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
-
-    -- Di chuyển xuống tọa độ mục tiêu
-    while (humanoidRootPart.Position - targetPosition).Magnitude > tolerance do
-        -- Di chuyển từ từ đến tọa độ mục tiêu
-        local direction = (targetPosition - humanoidRootPart.Position).unit
-        local moveVector = direction * speed * 0.02  -- Hạ xuống từ từ với tốc độ đã chỉ định
-        humanoidRootPart.CFrame = humanoidRootPart.CFrame + moveVector  -- Cập nhật CFrame để di chuyển
-
-        -- Đảm bảo nhân vật đứng trên mặt đất hoặc trên nước
-        local currentHeight = checkHeight(humanoidRootPart.Position)
-        humanoidRootPart.CFrame = CFrame.new(humanoidRootPart.Position.X, currentHeight, humanoidRootPart.Position.Z)
-
-        -- Điều chỉnh kích thước WaterBase-Plane tùy vào việc đi trên mặt nước
-        if walkWater then
-            game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000, 112, 1000)
-        else
-            game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000, 80, 1000)
-        end
-
-        wait(0.02)
-    end
-
-    -- Đảm bảo nhân vật hạ xuống chính xác tại tọa độ mục tiêu
-    local finalHeight = checkHeight(targetPosition)
-    humanoidRootPart.CFrame = CFrame.new(targetPosition.X, finalHeight, targetPosition.Z)
-
-    -- Hiển thị thông báo khi đến nơi
-    showNotification("Buy Boat Pls (Mua Thuyền Làm Ơn)")
-
-    -- Sau khi đến đích, tắt đi chức năng đi trên mặt nước
-    game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000, 80, 1000)
-end) 
-    end)
-
-Se:AddToggle("Auto Find Leviathan (Need 5 Player)", function(value)
-         _G.Leviathan = value
-        StopTween( _G.Leviathan)
-    end)
-    
-spawn(function()
-    while wait() do
-        pcall(function()
-            if _G.Leviathan then
-                if not game:GetService("Workspace").Enemies:FindFirstChild("Shark") or 
-                   not game:GetService("Workspace").Enemies:FindFirstChild("Terrorshark") or 
-                   not game:GetService("Workspace").Enemies:FindFirstChild("Piranha") or 
-                   not game:GetService("Workspace").Enemies:FindFirstChild("Fish Crew Member") then
-                   
-                    if not game:GetService("Workspace").Boats:FindFirstChild("PirateBrigade") then
-                        buyb = TPP(CFrame.new(-16927.451171875, 9.0863618850708, 433.8642883300781))
-                        if (CFrame.new(-16927.451171875, 9.0863618850708, 433.8642883300781).Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).magnitude <= 10 then
-                            if buyb then buyb:Stop() end
-                            local args = {
-                                [1] = "BuyBoat",
-                                [2] = "PirateBrigade"
-                            }
-                            game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
-                        end
-                    elseif game:GetService("Workspace").Boats:FindFirstChild("PirateBrigade") then
-                        if game.Players.LocalPlayer.Character:WaitForChild("Humanoid").Sit == false then
-                            TPP(game:GetService("Workspace").Boats.PirateBrigade.VehicleSeat.CFrame * CFrame.new(0,1,0))
-                        else
-                            -- Tự động lái thuyền đến tọa độ cụ thể
-                            local targetPosition = CFrame.new(12625, 54, 147305)
-                            repeat wait()
-                                if (targetPosition.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).magnitude > 10 then
-                                    TPP(targetPosition)
-                                end
-                            until game:GetService("Workspace").Enemies:FindFirstChild("Shark") or 
-                                  game:GetService("Workspace").Enemies:FindFirstChild("Terrorshark") or 
-                                  game:GetService("Workspace").Enemies:FindFirstChild("Piranha") or 
-                                  game:GetService("Workspace").Enemies:FindFirstChild("Fish Crew Member") or 
-                                  _G.Leviathan == false
-                        end
-                    end
-                end
-            end
-        end)
-    end
-end)
-    
 Se:AddToggle("Don't Care", true, function(value)
       print("Don't Care")
 end)      
     
--- Player Tab
+-- PVP Tab
 P:AddLabel("Soon")
--- Raid Tab
+-- Fruits-Raid Tab
 R:AddSeperator("Raid")
 
 _G.SelectChip = selectraids or ""
@@ -6182,8 +6041,8 @@ R:AddToggle("Auto Awakening", _G.Auto_Awakener, function(value)
     end)
 
 -- Fruits Tab
-F:AddSeperator("Fruits")
-F:AddToggle("Auto Random Fruits", _G.Settings.RandomF, function(value)
+R:AddSeperator("Fruits")
+R:AddToggle("Auto Random Fruits", _G.Settings.RandomF, function(value)
         _G.Random_Auto = value
         _G.Settings.RandomF = value
         SaveSettings()
@@ -6199,7 +6058,7 @@ F:AddToggle("Auto Random Fruits", _G.Settings.RandomF, function(value)
         end)
     end)
     
-F:AddToggle("Auto Store Fruits", _G.Settings.Store, function(value)
+R:AddToggle("Auto Store Fruits", _G.Settings.Store, function(value)
         _G.AutoStoreFruit = value
         _G.Settings.Store = value
         SaveSettings()
@@ -6346,7 +6205,7 @@ spawn(function()
 	   end
     end)
     
-F:AddToggle("Tween to Fruits", _G.Settings.Tween, function(value)
+R:AddToggle("Tween to Fruits", _G.Settings.Tween, function(value)
     _G.Tweenfruit = value
     _G.Settings.Tween = value
     SaveSettings()
@@ -6364,38 +6223,49 @@ F:AddToggle("Tween to Fruits", _G.Settings.Tween, function(value)
     end
     end)
     
--- Teleport Tab
-T:AddLabel("Soon")
--- Stats Tab
-St:AddSeperator("Stats")
-St:AddToggle("Melee", _G.Settings.Fight,function(Value)
+-- Local Player Tab
+L:AddSeperator("Teleport Sea")
+L:AddButton("Teleport To Sea 1",function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("TravelMain")
+    end)
+    
+L:AddButton("Teleport To Sea 2",function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("TravelDressrosa")
+    end)
+    
+L:AddButton("Teleport To Sea 3",function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("TravelZou")
+    end)
+
+L:AddSeperator("Stats")
+L:AddToggle("Melee", _G.Settings.Fight,function(Value)
 melee = Value    
     _G.Settings.Fight = Value
     SaveSettings()
 end)
-St:AddToggle("Defense", _G.Settings.Health,function(value)
+L:AddToggle("Defense", _G.Settings.Health,function(value)
 defense = value
     _G.Settings.Health = value
     SaveSettings()
 end)
-St:AddToggle("Sword", _G.Settings.Wea,function(value)
+L:AddToggle("Sword", _G.Settings.Wea,function(value)
 sword = value
     _G.Settings.Wea = value
     SaveSettings()
 end)
-St:AddToggle("Gun", _G.Settings.Low,function(value)
+L:AddToggle("Gun", _G.Settings.Low,function(value)
 gun = value
     _G.Settings.Low = value
     SaveSettings()
 end)
-St:AddToggle("Devil Fruit", _G.Settings.Fruit,function(value)
+L:AddToggle("Devil Fruit", _G.Settings.Fruit,function(value)
 demonfruit = value
     _G.Settings.Fruit = value
     SaveSettings()
 end)
 
 PointStats = 1
-St:AddSlider("Point",1,100,PointStats,nil,function(value)
+L:AddSlider("Point",1,100,PointStats,nil,function(value)
 PointStats = value
 end)
 
@@ -6446,33 +6316,19 @@ spawn(function()
 		end
 	end)
 	
--- Fun Tab
-Fun:AddSeperator("Fun")
+L:AddSeperator("Misc")
 
-Fun:AddButton("Fall", function()
-local player = game.Players.LocalPlayer
-local character = player.Character or player.CharacterAdded:Wait()
-local humanoid = character:WaitForChild("Humanoid")
-
-humanoid.JumpHeight = 100  
-
-humanoid.PlatformStand = true
-    end)
-    
--- Misc Tab
-Mis:AddSeperator("Misc")
-
-Mis:AddButton("Hop Server", function()
+L:AddButton("Hop Server", function()
         Hop()
     end)
     
-Mis:AddSeperator("Team")
+L:AddSeperator("Team")
 
-Mis:AddButton("Join Pirates Team", function()
+L:AddButton("Join Pirates Team", function()
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetTeam","Pirates") 
     end)
     
-Mis:AddButton("Join Marines Team", function()
+L:AddButton("Join Marines Team", function()
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetTeam","Marines") 
     end)
     
@@ -6487,6 +6343,34 @@ end)
 
 -- IDK Tab
 IDK:AddLabel("Don't Care Bro")
+
+local player = game.Players.LocalPlayer
+local screenGui = Instance.new("ScreenGui")
+screenGui.Parent = player.PlayerGui
+
+local fpsLabel = Instance.new("TextLabel")
+fpsLabel.Parent = screenGui
+fpsLabel.Size = UDim2.new(0, 200, 0, 50)  
+fpsLabel.Position = UDim2.new(0, 10, 0, 10) 
+fpsLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)  
+fpsLabel.BackgroundTransparency = 0.5 
+fpsLabel.TextColor3 = Color3.fromRGB(255, 255, 255)  
+fpsLabel.TextSize = 24  
+fpsLabel.Text = "FPS: 0" 
+
+local function updateFPS()
+    local lastFrameTime = tick()
+    local fps = 0
+    while true do
+        local currentFrameTime = tick()
+        fps = math.floor(1 / (currentFrameTime - lastFrameTime))
+        lastFrameTime = currentFrameTime
+        fpsLabel.Text = "FPS: " .. tostring(fps)
+        wait(0.1)  
+    end
+end
+
+updateFPS()
 
 game.StarterGui:SetCore("SendNotification", {
       Icon = "http://www.roblox.com/asset/?id=115327581671218";
